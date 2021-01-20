@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\Demo\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn\\values-kn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mdogs\\.gradle\\caches\\transforms-2\\files-2.1\\f25a5d9778feff158c190ecd4e237b4c\\res\\values-kn\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,245,298,397,500",
+                        "endColumns": "45,52,98,102,76",
+                        "endOffsets": "244,297,396,499,576"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,162,265,372",
+                        "endColumns": "49,56,102,106,80",
+                        "endOffsets": "100,157,260,367,448"
+                    }
+                }
+            ]
+        }
+    ]
+}

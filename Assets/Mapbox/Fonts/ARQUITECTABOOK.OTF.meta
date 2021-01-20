@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 01e00fa3eff24df4382806ea6e1ea5e3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arquitecta
+  fontNames:
+  - Arquitecta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 607bc49850c5afb44858249652a9a9e3, type: 3}
+  - {fileID: 12800000, guid: 60bb4b3cf52f30e4780e23f740514fe6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

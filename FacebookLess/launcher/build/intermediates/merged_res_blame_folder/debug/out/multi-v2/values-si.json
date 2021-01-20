@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mdogs\\.gradle\\caches\\transforms-2\\files-2.1\\de6854338bd835c8c4f6f658851a149a\\jetified-arcore_client\\res\\values-si\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "199,252,307,398,497",
+                        "endColumns": "52,54,90,98,66",
+                        "endOffsets": "251,306,397,496,563"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,171,266,369",
+                        "endColumns": "56,58,94,102,70",
+                        "endOffsets": "107,166,261,364,435"
+                    }
+                }
+            ]
+        }
+    ]
+}

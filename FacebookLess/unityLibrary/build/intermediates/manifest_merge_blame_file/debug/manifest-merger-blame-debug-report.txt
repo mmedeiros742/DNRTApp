@@ -1,0 +1,223 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.unity3d.player"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="28" />
+10-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:30:3-52
+19-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:30:17-49
+20    <uses-feature
+20-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:31:3-91
+21        android:name="android.hardware.vulkan.version"
+21-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:31:17-63
+22        android:required="false" />
+22-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:31:64-88
+23
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:32:3-65
+24-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:32:20-62
+25    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:33:3-77
+25-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:33:20-74
+26
+27    <uses-feature
+27-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:34:3-89
+28        android:name="android.hardware.location.gps"
+28-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:34:17-61
+29        android:required="false" />
+29-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:34:62-86
+30    <uses-feature
+30-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:35:3-85
+31        android:name="android.hardware.location"
+31-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:35:17-57
+32        android:required="false" />
+32-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:35:58-82
+33    <uses-feature
+33-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:36:3-88
+34        android:name="android.hardware.touchscreen"
+34-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:36:17-60
+35        android:required="false" />
+35-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:36:61-85
+36    <uses-feature
+36-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:37:3-99
+37        android:name="android.hardware.touchscreen.multitouch"
+37-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:37:17-71
+38        android:required="false" />
+38-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:37:72-96
+39    <uses-feature
+39-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:38:3-108
+40        android:name="android.hardware.touchscreen.multitouch.distinct"
+40-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:38:17-80
+41        android:required="false" />
+41-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:38:81-105
+42
+43    <application
+43-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:4:3-29:17
+44        android:debuggable="true"
+44-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:4:108-133
+45        android:icon="@mipmap/app_icon"
+45-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:4:134-165
+46        android:label="@string/app_name"
+46-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:4:75-107
+47        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+47-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:4:16-74
+48        <activity
+48-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:5:5-12:16
+49            android:name="com.unity3d.player.UnityPlayerActivity"
+49-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:5:15-68
+50            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+50-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:5:171-352
+51            android:hardwareAccelerated="false"
+51-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:5:353-388
+52            android:label="@string/app_name"
+52-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:5:69-101
+53            android:launchMode="singleTask"
+53-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:5:139-170
+54            android:screenOrientation="portrait" >
+54-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:5:102-138
+55            <intent-filter>
+55-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:6:7-9:23
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:7:9-61
+56-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:7:17-58
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:8:9-69
+58-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:8:19-66
+59            </intent-filter>
+60
+61            <meta-data
+61-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:10:7-82
+62                android:name="unityplayer.UnityActivity"
+62-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:10:18-58
+63                android:value="true" />
+63-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:10:59-79
+64            <meta-data
+64-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:11:7-78
+65                android:name="android.notch_support"
+65-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:11:18-54
+66                android:value="true" />
+66-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+67        </activity>
+68        <activity
+68-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:13:5-301
+69            android:name="com.facebook.unity.FBUnityLoginActivity"
+69-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:13:15-69
+70            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+70-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:13:70-227
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+71-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:13:228-298
+72        <activity
+72-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:14:5-303
+73            android:name="com.facebook.unity.FBUnityDialogsActivity"
+73-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:14:15-71
+74            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+74-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:14:72-229
+75            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+75-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:14:230-300
+76        <activity
+76-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:15:5-322
+77            android:name="com.facebook.unity.FBUnityGamingServicesFriendFinderActivity"
+77-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:15:15-90
+78            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+78-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:15:91-248
+79            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+79-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:15:249-319
+80        <activity
+80-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:16:5-98
+81            android:name="com.facebook.unity.FBUnityAppLinkActivity"
+81-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:16:15-71
+82            android:exported="true" />
+82-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:16:72-95
+83        <activity
+83-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:17:5-102
+84            android:name="com.facebook.unity.FBUnityDeepLinkingActivity"
+84-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:17:15-75
+85            android:exported="true" />
+85-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:17:76-99
+86        <activity android:name="com.facebook.unity.FBUnityGameRequestActivity" />
+86-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:18:5-78
+86-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:18:15-75
+87        <activity android:name="com.facebook.unity.FBUnityCreateGameGroupActivity" />
+87-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:19:5-82
+87-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:19:15-79
+88        <activity android:name="com.facebook.unity.FBUnityJoinGameGroupActivity" />
+88-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:20:5-80
+88-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:20:15-77
+89
+90        <meta-data
+90-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:21:5-98
+91            android:name="com.facebook.sdk.ApplicationId"
+91-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:21:16-61
+92            android:value="fb216377300232034" />
+92-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:21:62-95
+93        <meta-data
+93-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:22:5-95
+94            android:name="com.facebook.sdk.AutoLogAppEventsEnabled"
+94-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:22:16-71
+95            android:value="true" />
+95-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:22:72-92
+96        <meta-data
+96-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:23:5-101
+97            android:name="com.facebook.sdk.AdvertiserIDCollectionEnabled"
+97-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:23:16-77
+98            android:value="true" />
+98-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:23:78-98
+99
+100        <provider
+100-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:24:5-171
+101            android:name="com.facebook.FacebookContentProvider"
+101-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:24:15-66
+102            android:authorities="com.facebook.app.FacebookContentProvider216377300232034"
+102-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:24:67-144
+103            android:exported="true" />
+103-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:24:145-168
+104
+105        <meta-data
+105-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:25:5-69
+106            android:name="unity.splash-mode"
+106-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:25:16-48
+107            android:value="2" />
+107-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:25:49-66
+108        <meta-data
+108-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:26:5-74
+109            android:name="unity.splash-enable"
+109-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:26:16-50
+110            android:value="True" />
+110-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:26:51-71
+111        <meta-data
+111-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:27:5-81
+112            android:name="notch.config"
+112-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:27:16-43
+113            android:value="portrait|landscape" />
+113-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:27:44-78
+114        <meta-data
+114-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:28:5-101
+115            android:name="unity.build-id"
+115-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:28:16-45
+116            android:value="9fd04a1c-45ba-4843-a441-4ba85bf2a29f" />
+116-->C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\src\main\AndroidManifest.xml:28:46-98
+117    </application>
+118
+119</manifest>

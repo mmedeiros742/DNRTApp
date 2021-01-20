@@ -1,0 +1,413 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-119:12
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\fe6d37e2adedbc0603079d378f6f52ca\animated-vector-drawable-25.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1e99788e40a427732edc70570b986f93\appcompat-v7-25.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:17:1-44:12
+MERGED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:2:1-10:12
+MERGED from [:libcore-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1cf196a3fa391976e2aaec766e5fdd39\libcore-release\AndroidManifest.xml:2:1-14:12
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:2:1-30:12
+MERGED from [:Pedometer:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\b65c1f713b2432b658cc253abf673d97\jetified-Pedometer\AndroidManifest.xml:2:1-17:12
+MERGED from [:support-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\550121b49b600f394bb57480b2bcfc17\support-compat-25.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\d0b937a6ea7d5167edfb57f3813c6f0f\support-core-ui-25.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\effc95d5dd08a46d5e382a8afea18692\support-core-utils-25.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\09ae5e9f1f83401f23227d77030c269f\support-media-compat-25.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:support-v4-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\16802497787051fe3be1344330d8a504\support-v4-25.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\6691fdc8643849c2eb57bcb71e0f12c0\support-vector-drawable-25.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:unityandroidpermissions:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\c49142923d6619903b16e3e5b0960796\jetified-unityandroidpermissions\AndroidManifest.xml:6:1-15:12
+MERGED from [:unitygar:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\af134fbae29a2f6676e75ddbaef85419\jetified-unitygar\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:70-96
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:97-143
+	android:versionCode
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:144-184
+supports-screens
+ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:4:3-163
+MERGED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-17:40
+MERGED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-17:40
+	android:largeScreens
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:5-117:19
+MERGED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:5-117:19
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\fe6d37e2adedbc0603079d378f6f52ca\animated-vector-drawable-25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\fe6d37e2adedbc0603079d378f6f52ca\animated-vector-drawable-25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1e99788e40a427732edc70570b986f93\appcompat-v7-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1e99788e40a427732edc70570b986f93\appcompat-v7-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:28:5-42:19
+MERGED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:28:5-42:19
+MERGED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:6:5-8:19
+MERGED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:6:5-8:19
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:18:5-28:19
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:18:5-28:19
+MERGED from [:Pedometer:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\b65c1f713b2432b658cc253abf673d97\jetified-Pedometer\AndroidManifest.xml:11:5-15:19
+MERGED from [:Pedometer:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\b65c1f713b2432b658cc253abf673d97\jetified-Pedometer\AndroidManifest.xml:11:5-15:19
+MERGED from [:support-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\550121b49b600f394bb57480b2bcfc17\support-compat-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\550121b49b600f394bb57480b2bcfc17\support-compat-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\d0b937a6ea7d5167edfb57f3813c6f0f\support-core-ui-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\d0b937a6ea7d5167edfb57f3813c6f0f\support-core-ui-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\effc95d5dd08a46d5e382a8afea18692\support-core-utils-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\effc95d5dd08a46d5e382a8afea18692\support-core-utils-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\09ae5e9f1f83401f23227d77030c269f\support-media-compat-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\09ae5e9f1f83401f23227d77030c269f\support-media-compat-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-v4-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\16802497787051fe3be1344330d8a504\support-v4-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-v4-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\16802497787051fe3be1344330d8a504\support-v4-25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\6691fdc8643849c2eb57bcb71e0f12c0\support-vector-drawable-25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\6691fdc8643849c2eb57bcb71e0f12c0\support-vector-drawable-25.1.0\AndroidManifest.xml:23:5-20
+	android:supportsRtl
+		ADDED from [:Pedometer:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\b65c1f713b2432b658cc253abf673d97\jetified-Pedometer\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:debuggable
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:9-34
+	android:allowBackup
+		ADDED from [:Pedometer:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\b65c1f713b2432b658cc253abf673d97\jetified-Pedometer\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:5:49-80
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:47:9-67
+uses-sdk
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\fe6d37e2adedbc0603079d378f6f52ca\animated-vector-drawable-25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:animated-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\fe6d37e2adedbc0603079d378f6f52ca\animated-vector-drawable-25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1e99788e40a427732edc70570b986f93\appcompat-v7-25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [:appcompat-v7-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1e99788e40a427732edc70570b986f93\appcompat-v7-25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:25:5-44
+MERGED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:25:5-44
+MERGED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:26:5-47
+MERGED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:26:5-47
+MERGED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libcore-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1cf196a3fa391976e2aaec766e5fdd39\libcore-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:libcore-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1cf196a3fa391976e2aaec766e5fdd39\libcore-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:Pedometer:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\b65c1f713b2432b658cc253abf673d97\jetified-Pedometer\AndroidManifest.xml:7:5-9:41
+MERGED from [:Pedometer:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\b65c1f713b2432b658cc253abf673d97\jetified-Pedometer\AndroidManifest.xml:7:5-9:41
+MERGED from [:support-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\550121b49b600f394bb57480b2bcfc17\support-compat-25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [:support-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\550121b49b600f394bb57480b2bcfc17\support-compat-25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\d0b937a6ea7d5167edfb57f3813c6f0f\support-core-ui-25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-ui-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\d0b937a6ea7d5167edfb57f3813c6f0f\support-core-ui-25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\effc95d5dd08a46d5e382a8afea18692\support-core-utils-25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [:support-core-utils-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\effc95d5dd08a46d5e382a8afea18692\support-core-utils-25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\09ae5e9f1f83401f23227d77030c269f\support-media-compat-25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [:support-media-compat-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\09ae5e9f1f83401f23227d77030c269f\support-media-compat-25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [:support-v4-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\16802497787051fe3be1344330d8a504\support-v4-25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [:support-v4-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\16802497787051fe3be1344330d8a504\support-v4-25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\6691fdc8643849c2eb57bcb71e0f12c0\support-vector-drawable-25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [:support-vector-drawable-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\6691fdc8643849c2eb57bcb71e0f12c0\support-vector-drawable-25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [:unityandroidpermissions:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\c49142923d6619903b16e3e5b0960796\jetified-unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unityandroidpermissions:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\c49142923d6619903b16e3e5b0960796\jetified-unityandroidpermissions\AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\af134fbae29a2f6676e75ddbaef85419\jetified-unitygar\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygar:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\af134fbae29a2f6676e75ddbaef85419\jetified-unitygar\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:appcompat-v7-25.1.0:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1e99788e40a427732edc70570b986f93\appcompat-v7-25.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-67
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:16:5-67
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-79
+MERGED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:11:5-79
+MERGED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:11:5-79
+MERGED from [:libcore-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1cf196a3fa391976e2aaec766e5fdd39\libcore-release\AndroidManifest.xml:11:5-79
+MERGED from [:libcore-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1cf196a3fa391976e2aaec766e5fdd39\libcore-release\AndroidManifest.xml:11:5-79
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:13:5-79
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:22-76
+uses-feature#android.hardware.location.gps
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-29:36
+MERGED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:14:5-16:35
+MERGED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.location
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:48:9-67:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:13-45
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:53:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:51:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:13-194
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:61:13-63:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:62:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:64:13-66:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:66:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:17-53
+activity#com.facebook.unity.FBUnityLoginActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:68:9-71:86
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:13-170
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-83
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:69:13-67
+activity#com.facebook.unity.FBUnityDialogsActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:9-75:86
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-170
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-83
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-69
+activity#com.facebook.unity.FBUnityGamingServicesFriendFinderActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:9-79:86
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:78:13-170
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:79:13-83
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:77:13-88
+activity#com.facebook.unity.FBUnityAppLinkActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:80:9-82:39
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:82:13-36
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:81:13-69
+activity#com.facebook.unity.FBUnityDeepLinkingActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:83:9-85:39
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:13-36
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:84:13-73
+activity#com.facebook.unity.FBUnityGameRequestActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:9-82
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:19-79
+activity#com.facebook.unity.FBUnityCreateGameGroupActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:9-86
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:19-83
+activity#com.facebook.unity.FBUnityJoinGameGroupActivity
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:9-84
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:88:19-81
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:9-92:49
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:92:13-46
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:91:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:9-95:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:94:13-68
+meta-data#com.facebook.sdk.AdvertiserIDCollectionEnabled
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:96:9-98:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:98:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:97:13-74
+provider#com.facebook.FacebookContentProvider
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:100:9-103:39
+	android:authorities
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:13-90
+	android:exported
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:103:13-36
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:13-64
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:9-107:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:107:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:106:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:108:9-110:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:9-113:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:113:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:112:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:114:9-116:68
+	android:value
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:116:13-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\unityLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:115:13-42
+activity#com.google.ar.core.InstallActivity
+ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:32:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:39:9-41:41
+	android:value
+		ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:41:13-38
+	android:name
+		ADDED from [:arcore_client:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\de6854338bd835c8c4f6f658851a149a\jetified-arcore_client\AndroidManifest.xml:40:13-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:com.mapbox.android.unity-debug:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\4482dec15a680dfdb37a2db1b8ccbf77\com.mapbox.android.unity-debug\AndroidManifest.xml:12:22-78
+meta-data#com.google.ar.core
+ADDED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:7:9-81
+	android:value
+		ADDED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:7:54-78
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:7:20-53
+uses-feature#android.hardware.camera.ar
+ADDED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:9:5-86
+	android:required
+		ADDED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:9:61-84
+	android:name
+		ADDED from [:google_ar_required:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\8734fc66c1881ce49b5dbc5df227def7\jetified-google_ar_required\AndroidManifest.xml:9:19-60
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12 reason: com.google.ar.core.unity.manifestsettings has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12 reason: com.google.ar.core.unity.manifestsettings has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Mdogs\Desktop\DNRT App\FacebookLess\launcher\src\main\AndroidManifest.xml:3:1-6:12 reason: com.google.ar.core.unity.manifestsettings requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:libcore-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1cf196a3fa391976e2aaec766e5fdd39\libcore-release\AndroidManifest.xml:12:5-79
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:14:5-79
+MERGED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:libcore-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\1cf196a3fa391976e2aaec766e5fdd39\libcore-release\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:15:22-73
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:21:13-79
+	android:exported
+		ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:20:13-93
+service#com.mapbox.android.telemetry.crash.CrashReporterJobIntentService
+ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:25:9-27:72
+	android:permission
+		ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [:libtelemetry-full-release:] C:\Users\Mdogs\.gradle\caches\transforms-2\files-2.1\e5809eab1648ea64ac9489668bf5dfd0\libtelemetry-full-release\AndroidManifest.xml:26:13-92

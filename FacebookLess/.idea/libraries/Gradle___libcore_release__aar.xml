@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :libcore-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1cf196a3fa391976e2aaec766e5fdd39/libcore-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1cf196a3fa391976e2aaec766e5fdd39/libcore-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1cf196a3fa391976e2aaec766e5fdd39/libcore-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

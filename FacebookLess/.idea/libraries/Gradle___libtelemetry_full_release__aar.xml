@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :libtelemetry-full-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5809eab1648ea64ac9489668bf5dfd0/libtelemetry-full-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5809eab1648ea64ac9489668bf5dfd0/libtelemetry-full-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5809eab1648ea64ac9489668bf5dfd0/libtelemetry-full-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\src\\main\\res\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\build\\intermediates\\res\\merged\\debug\\drawable_unity_static_splash.png.flat",
+        "source": "C:\\Users\\Mdogs\\Desktop\\DNRT App\\FacebookLess\\launcher\\src\\main\\res\\drawable\\unity_static_splash.png"
+    }
+]

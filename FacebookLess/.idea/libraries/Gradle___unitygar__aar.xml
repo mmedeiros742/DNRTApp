@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: :unitygar:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af134fbae29a2f6676e75ddbaef85419/jetified-unitygar/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af134fbae29a2f6676e75ddbaef85419/jetified-unitygar/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af134fbae29a2f6676e75ddbaef85419/jetified-unitygar/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af134fbae29a2f6676e75ddbaef85419/jetified-unitygar/jars/libs/tango_java_lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

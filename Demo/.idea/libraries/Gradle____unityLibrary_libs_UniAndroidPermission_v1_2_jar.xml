@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./unityLibrary/libs/UniAndroidPermission_v1_2.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unityLibrary/libs/UniAndroidPermission_v1_2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
