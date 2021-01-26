@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: ./unityLibrary/libs/RuntimePermissions.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/unityLibrary/libs/RuntimePermissions.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

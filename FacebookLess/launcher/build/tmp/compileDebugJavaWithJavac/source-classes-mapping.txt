@@ -1,2 +1,0 @@
-com/DNRT/DNRTApp/BuildConfig.java
- com.DNRT.DNRTApp.BuildConfig
