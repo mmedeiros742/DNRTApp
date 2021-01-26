@@ -5,6 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Properties.unity
+    guid: 78f2b9f42df3e29499d55fb61563f2b5
+  - enabled: 1
+    path: Assets/Scenes/opener.unity
+    guid: 2224e12e47e82c94381d8643e1c5db86
   - enabled: 1
     path: Assets/Scenes/splash.unity
     guid: 818c090de8da7f842897175e1ac70902
@@ -15,96 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Map.unity
     guid: e1a32fe862b30de47a92ebc48820387b
   - enabled: 1
-    path: Assets/Scenes/Contact.unity
-    guid: a20cc9601e40bdb469c79fa273603dff
-  - enabled: 1
-    path: Assets/Scenes/AllenMill.unity
-    guid: 3bd8214403a9d6b43a37876bde3021c7
-  - enabled: 1
-    path: Assets/Scenes/DestrBrk.unity
-    guid: 9fd6378bb1a79a744804e5d5c0eaee8a
-  - enabled: 1
-    path: Assets/Scenes/dcreek.unity
-    guid: 0582e30485e7b0447b164734cf39c660
-  - enabled: 1
-    path: Assets/Scenes/Howland.unity
-    guid: 1eb7b81436414f449b0a514a06a9e2af
-  - enabled: 1
-    path: Assets/Scenes/Parson.unity
-    guid: f3c0a368f37ae7242af96c47b20b0b81
-  - enabled: 1
-    path: Assets/Scenes/mcbratney.unity
-    guid: ee920670c8a820e4db0e355dc4668a68
-  - enabled: 1
-    path: Assets/Scenes/knowles.unity
-    guid: 49963dfca2bcca74b8c9f0f81b6b277c
-  - enabled: 1
-    path: Assets/Scenes/peterscreek.unity
-    guid: e90870d3e4ceaf948b128db372dd1cc0
-  - enabled: 1
-    path: Assets/Scenes/oceanview.unity
-    guid: 3e22c3bedc9a9b8469edb9978ab06ecf
-  - enabled: 1
-    path: Assets/Scenes/newbgc.unity
-    guid: 8e2aaed5f2c2af246bbc0b2055ffbc33
-  - enabled: 1
-    path: Assets/Scenes/Starofthesea.unity
-    guid: 2338cff11b7d3fd48912eceb1b2dd0a5
-  - enabled: 1
-    path: Assets/Scenes/wylde.unity
-    guid: 1d2a48078534be54f8853d94d1c7f769
-  - enabled: 1
-    path: Assets/Scenes/wernick.unity
-    guid: 0519a52007c5a6c47a3435b271242df0
-  - enabled: 1
-    path: Assets/Scenes/ridgehill.unity
-    guid: aa223fca65038a24fb51ba6e9f950c0d
-  - enabled: 1
-    path: Assets/Scenes/frankknowles.unity
-    guid: b9e3ecb5dea399943a408106b65297ba
-  - enabled: 1
-    path: Assets/Scenes/slocum.unity
-    guid: 28452fa7e353a274ba1876256109eb81
-  - enabled: 1
-    path: Assets/Scenes/PASKAMANSETT.unity
-    guid: 4790ea39375194e45938070646bb7ebe
-  - enabled: 1
-    path: Assets/Scenes/Smith.unity
-    guid: 52866c9b9a945a24e95e9e8bbeedfe6b
-  - enabled: 1
-    path: Assets/Scenes/dodge.unity
-    guid: ffe3a6a116349e8488043c43976aa106
-  - enabled: 1
-    path: Assets/Scenes/paskalegend.unity
-    guid: b09476bad9100c746ae3ab08c906b2e4
-  - enabled: 1
-    path: Assets/Scenes/DestrBrkLegend.unity
-    guid: 1ae0387efe7df0d4286713806ed6927c
-  - enabled: 0
-    path: Assets/Mapbox/Examples/6_ZoomableMap/ZoomableMap.unity
-    guid: 2c7147d54825142878b256c67aae5704
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/Scenes/littleriverlegend.unity
-    guid: a028db1f000f6894fab4d41c442c62e4
-  - enabled: 1
-    path: Assets/Scenes/ridgehilllegend.unity
-    guid: 7739e5a9ca8330e48bc734fc257ac2f3
-  - enabled: 1
-    path: Assets/Scenes/parsonslegend.unity
-    guid: d57c7164c9ef875469bd5b3bcb1f9135
-  - enabled: 1
-    path: Assets/Scenes/wernicklegend.unity
-    guid: 828488e046c7afa418dc7498e8059336
-  - enabled: 1
-    path: Assets/Scenes/smithlegend.unity
-    guid: 576c98738885b644e94ec8d691e91067
-  - enabled: 1
-    path: Assets/Scenes/dikecreeklegend.unity
-    guid: 8bdce9d20d42fa846b2c95dd43dda2ed
-  - enabled: 1
     path: Assets/Scenes/Stats.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Contact.unity
+    guid: a20cc9601e40bdb469c79fa273603dff
   m_configObjects: {}

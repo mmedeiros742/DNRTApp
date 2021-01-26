@@ -36,8 +36,8 @@ namespace PedometerU.Tests {
         public void OnStep (int steps, double distance) {
             // Display the values
             step.text = steps.ToString();
-            // Display distance in miles
-            dist.text = (distance * 0.000621371).ToString("F2") + " mi.";
+            // Display distance in feet
+            dist.text = (distance * 3.28084).ToString("F2") + " ft";
         }
 
         public void Stop()
