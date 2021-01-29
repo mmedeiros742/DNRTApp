@@ -1722,12 +1722,21 @@ PrefabInstance:
       objectReference: {fileID: 48121305}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7e3f16a6f6303419cbd9837f6c746de4, type: 3}
---- !u!4 &37843831 stripped
+--- !u!4 &37843831
 Transform:
-  m_CorrespondingSourceObject: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4,
-    type: 3}
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 37843830}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1883469667}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 327790648}
+  m_Father: {fileID: 720812764}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &40953959
 GameObject:
   m_ObjectHideFlags: 0
@@ -6495,15 +6504,15 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
-          m_MethodName: SceneLoader
-          m_Mode: 3
+        - m_Target: {fileID: 524717398}
+          m_MethodName: LoadScene
+          m_Mode: 5
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 2
             m_FloatArgument: 0
-            m_StringArgument: 
+            m_StringArgument: Map
             m_BoolArgument: 0
           m_CallState: 2
 --- !u!114 &169608576
@@ -13929,6 +13938,37 @@ MonoBehaviour:
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
+--- !u!1 &327790647
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 37843830}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 327790648}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &327790648
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4960404783511462, guid: 7e3f16a6f6303419cbd9837f6c746de4,
+    type: 3}
+  m_PrefabInstance: {fileID: 37843830}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327790647}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 37843831}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &332653498
 GameObject:
   m_ObjectHideFlags: 0
@@ -19752,15 +19792,15 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
-          m_MethodName: SceneLoader
-          m_Mode: 3
+        - m_Target: {fileID: 524717398}
+          m_MethodName: LoadScene
+          m_Mode: 5
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 2
             m_FloatArgument: 0
-            m_StringArgument: 
+            m_StringArgument: Map
             m_BoolArgument: 0
           m_CallState: 2
 --- !u!114 &485576595
@@ -22266,6 +22306,7 @@ GameObject:
   m_Component:
   - component: {fileID: 555724741}
   - component: {fileID: 555724740}
+  - component: {fileID: 555724742}
   m_Layer: 0
   m_Name: Loading
   m_TagString: Untagged
@@ -22337,6 +22378,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &555724742
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 555724739}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c230a896eef804a8d9637a9cf12043d9, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &556019018
 GameObject:
   m_ObjectHideFlags: 0
@@ -49592,15 +49652,15 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
-          m_MethodName: SceneLoader
-          m_Mode: 3
+        - m_Target: {fileID: 524717398}
+          m_MethodName: LoadScene
+          m_Mode: 5
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
             m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 2
             m_FloatArgument: 0
-            m_StringArgument: 
+            m_StringArgument: Map
             m_BoolArgument: 0
           m_CallState: 2
 --- !u!114 &1445534043
@@ -62478,6 +62538,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1879994657}
   m_CullTransparentMesh: 0
+--- !u!1 &1883469667
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 37843830}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 37843831}
+  m_Layer: 0
+  m_Name: UniWebView (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &1899325296
 GameObject:
   m_ObjectHideFlags: 0

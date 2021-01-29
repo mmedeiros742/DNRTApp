@@ -43,23 +43,23 @@ namespace Mapbox.Unity.Utilities
 		/// <param name="s">string.</param>
 		public static Vector2d StringToLatLon(string s)
 		{
-			var latLonSplit = s.Split(new string[] { ", " }, StringSplitOptions.None);
+			var latLonSplit = s.Split(',');
 			if (latLonSplit.Length != 2)
 			{
-				throw new ArgumentException("Wrong number of arguments: " + s);
+				throw new ArgumentException("Wrong number of arguments");
 			}
 
 			double latitude = 0;
 			double longitude = 0;
 
-			if (!double.TryParse(latLonSplit[0].Trim().Replace(",", "."), NumberStyles.Any, NumberFormatInfo.InvariantInfo, out latitude))
+			if (!double.TryParse(latLonSplit[0], NumberStyles.Any, NumberFormatInfo.InvariantInfo, out latitude))
 			{
-				throw new Exception(string.Format("Could not convert latitude to double: {0}", latLonSplit[0].Trim().Replace(",", ".")));
+				throw new Exception(string.Format("Could not convert latitude to double: {0}", latLonSplit[0]));
 			}
 
-			if (!double.TryParse(latLonSplit[1].Trim().Replace(",", "."), NumberStyles.Any, NumberFormatInfo.InvariantInfo, out longitude))
+			if (!double.TryParse(latLonSplit[1], NumberStyles.Any, NumberFormatInfo.InvariantInfo, out longitude))
 			{
-				throw new Exception(string.Format("Could not convert longitude to double: {0}", latLonSplit[0].Trim().Replace(",", ".")));
+				throw new Exception(string.Format("Could not convert longitude to double: {0}", latLonSplit[0]));
 			}
 
 			return new Vector2d(latitude, longitude);
