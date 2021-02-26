@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/splash.unity
     guid: 818c090de8da7f842897175e1ac70902
   - enabled: 1
@@ -26,4 +26,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Contact.unity
     guid: a20cc9601e40bdb469c79fa273603dff
+  - enabled: 1
+    path: Assets/Scenes/destrBrkmp.unity
+    guid: 7ac768050a3b2984cbb48790c9f8236e
+  - enabled: 1
+    path: Assets/Scenes/dkCreekmp.unity
+    guid: 0998293dcf21a654fb86e64b1481ff69
+  - enabled: 1
+    path: Assets/Scenes/parsonmp.unity
+    guid: 214b6705d7f115446a82a43297fd1f23
+  - enabled: 1
+    path: Assets/Scenes/paskamp.unity
+    guid: 079c1d29a5a6a7442a7cb07d2b106e69
+  - enabled: 1
+    path: Assets/Scenes/ridgeHillmp.unity
+    guid: ca0ea256a7471154da3eb5016240d32e
+  - enabled: 1
+    path: Assets/Scenes/smithmp.unity
+    guid: f625fbfb16263ce4e8b705f5a26ddd2a
+  - enabled: 1
+    path: Assets/Scenes/wernickmp.unity
+    guid: b3cbea2b3b08e1a4fa32b0576189e2f7
   m_configObjects: {}
