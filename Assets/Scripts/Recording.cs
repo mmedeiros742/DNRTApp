@@ -29,7 +29,7 @@ namespace PedometerU.Tests {
                 
                 else{
                     AndroidRuntimePermissions.Permission result = AndroidRuntimePermissions.RequestPermission("com.google.android.gms.permission.ACTIVITY_RECOGNITION");
-                    AndroidRuntimePermissions.OpenSettings();
+                    // AndroidRuntimePermissions.OpenSettings();
                 }
         }
 
