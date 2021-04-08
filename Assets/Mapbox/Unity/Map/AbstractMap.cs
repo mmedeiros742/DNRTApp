@@ -359,6 +359,7 @@ namespace Mapbox.Unity.Map
 		/// <param name="zoom">Zoom level.</param>
 		public virtual void UpdateMap(Vector2d latLon, float zoom)
 		{
+			
 			if (Application.isEditor && !Application.isPlaying && !IsEditorPreviewEnabled)
 			{
 				return;
@@ -1072,9 +1073,9 @@ namespace Mapbox.Unity.Map
 						// Calculate height in the local space of the tile gameObject.
 						// Height is aligned with the y axis in local space.
 						// This also helps us avoid scale values when setting the height.
-						var localPos = tile.gameObject.transform.InverseTransformPoint(worldPos);
+						var localPos = gameObject.transform.InverseTransformPoint(worldPos);
 						localPos.y = height;
-						worldPos = tile.gameObject.transform.TransformPoint(localPos);
+						worldPos = gameObject.transform.TransformPoint(localPos);
 					}
 				}
 			}

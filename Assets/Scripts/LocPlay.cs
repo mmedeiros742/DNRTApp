@@ -11,12 +11,12 @@ public class LocPlay : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        /* Starts the marker on the gps
+        // Starts the marker on the gps
         Vector3 pos = this.transform.position;
         x = pos.x;
         y = pos.y;
         marker.transform.position = new Vector2(x,y);
-        */
+        
     }
 
     // Update is called once per frame
