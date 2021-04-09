@@ -62,4 +62,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/wernickmp.unity
     guid: ef58c6cd5f6b02043a3ad8866030e3b5
+  - enabled: 1
+    path: Assets/Scenes/dodgemp.unity
+    guid: 078bbb7d448224445a69beb22df16011
+  - enabled: 1
+    path: Assets/Scenes/hwlndmp.unity
+    guid: 1544258bcc189d542b3e67c59e544650
+  - enabled: 1
+    path: Assets/Scenes/knwlpndamp.unity
+    guid: cb5c6caec02873a4788e5afcb80b3742
+  - enabled: 1
+    path: Assets/Scenes/littlerivermp.unity
+    guid: 7f1013531803c84419df6b44d1e99116
+  - enabled: 1
+    path: Assets/Scenes/newbmp.unity
+    guid: 9c5c8a10706390640a77b69073468f1e
+  - enabled: 1
+    path: Assets/Scenes/ocnvwmp.unity
+    guid: f48f4f186b201be488f911f71e5c5826
+  - enabled: 1
+    path: Assets/Scenes/ptrcrkmp.unity
+    guid: 0890bca89af9c554d843499bd327aca9
+  - enabled: 1
+    path: Assets/Scenes/slcmmp.unity
+    guid: 8acd47d4c47103e4bbeec8a7b8c86ceb
+  - enabled: 1
+    path: Assets/Scenes/strseamp.unity
+    guid: 407513a3bbe559843bfdb173fc77884a
+  - enabled: 1
+    path: Assets/Scenes/wyldmp.unity
+    guid: 8edfddf18a4aec340b12e4b62cfd6125
   m_configObjects: {}
