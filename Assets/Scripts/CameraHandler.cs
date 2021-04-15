@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class CameraHandler : MonoBehaviour
 {
-    private static readonly float PanSpeed = 20f;
-    private static readonly float ZoomSpeedTouch = 0.1f;
-    private static readonly float ZoomSpeedMouse = 0.5f;
+    private static readonly float PanSpeed = 50f;
+    private static readonly float ZoomSpeedTouch = 5.1f;
+    private static readonly float ZoomSpeedMouse = 5.5f;
     
-    public float[] BoundsX = new float[]{-10f, 5f};
-    private static readonly float[] ZoomBounds = new float[]{10f, 85f};
+    public float[] BoundsX = new float[]{-150f, 150f};
+    public float[] BoundsY = new float[]{-50f, 50f};
+    private static readonly float[] ZoomBounds = new float[]{50f, 170f};
     
     private Camera cam;
     
@@ -92,7 +93,7 @@ public class CameraHandler : MonoBehaviour
     void PanCamera(Vector3 newPanPosition) {
         // Determine how much to move the camera
         Vector3 offset = cam.ScreenToViewportPoint(lastPanPosition - newPanPosition);
-        Vector3 move = new Vector3(offset.x * PanSpeed, 0, offset.y * PanSpeed);
+        Vector3 move = new Vector3(offset.x * PanSpeed, offset.y * PanSpeed, 0);
         
         // Perform the movement
         transform.Translate(move, Space.World);  
@@ -100,6 +101,7 @@ public class CameraHandler : MonoBehaviour
         // Ensure the camera remains within bounds.
         Vector3 pos = transform.position;
         pos.x = Mathf.Clamp(transform.position.x, BoundsX[0], BoundsX[1]);
+        pos.y = Mathf.Clamp(transform.position.y, BoundsY[0], BoundsY[1]);
         transform.position = pos;
     
         // Cache the position

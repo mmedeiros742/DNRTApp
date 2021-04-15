@@ -1513,8 +1513,8 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
-  orthographic: 1
+  field of view: 170
+  orthographic: 0
   orthographic size: 95.422905
   m_Depth: -1
   m_CullingMask:
@@ -1544,8 +1544,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BoundsX:
-  - -95
-  - 95
+  - -150
+  - 150
+  BoundsY:
+  - -80
+  - 100
 --- !u!81 &1166756513
 AudioListener:
   m_ObjectHideFlags: 0

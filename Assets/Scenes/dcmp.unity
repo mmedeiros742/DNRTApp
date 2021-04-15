@@ -1258,7 +1258,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31b55652aad8b824ca946dc4ad43e16b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  marker: {fileID: 0}
+  marker: {fileID: 876146890}
 --- !u!1 &1524173127
 GameObject:
   m_ObjectHideFlags: 0
@@ -2020,8 +2020,8 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
-  orthographic: 1
+  field of view: 169
+  orthographic: 0
   orthographic size: 95.422905
   m_Depth: -1
   m_CullingMask:
@@ -2050,6 +2050,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a9077bbde8202b469d03d6903a3ff09, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BoundsX:
+  - -150
+  - 150
+  BoundsY:
+  - -50
+  - 50
 --- !u!81 &2049076384
 AudioListener:
   m_ObjectHideFlags: 0
