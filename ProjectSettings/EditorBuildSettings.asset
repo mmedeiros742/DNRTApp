@@ -12,17 +12,17 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/LoadScreen.unity
-    guid: 5496f28425be70948859c6159ef0d398
-  - enabled: 0
     path: Assets/Scenes/Main_2.unity
     guid: 0733bb467c94c5d448bcb360660a7ddc
+  - enabled: 1
+    path: Assets/Scenes/splash.unity
+    guid: 818c090de8da7f842897175e1ac70902
   - enabled: 1
     path: Assets/Scenes/Main_3.unity
     guid: d9e2fe701875aab43a18b618efc059db
   - enabled: 1
-    path: Assets/Scenes/splash.unity
-    guid: 818c090de8da7f842897175e1ac70902
+    path: Assets/Scenes/LoadScreen.unity
+    guid: 5496f28425be70948859c6159ef0d398
   - enabled: 1
     path: Assets/Scenes/Map.unity
     guid: e1a32fe862b30de47a92ebc48820387b
@@ -92,4 +92,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/wyldmp.unity
     guid: 8edfddf18a4aec340b12e4b62cfd6125
+  - enabled: 1
+    path: Assets/Scenes/excess.unity
+    guid: 7ea61e3e9dab63644ac33bbeb8cd7cd1
+  - enabled: 1
+    path: Assets/Scenes/appguide.unity
+    guid: fcd644494a2c0a84db74c479cc18dbab
   m_configObjects: {}

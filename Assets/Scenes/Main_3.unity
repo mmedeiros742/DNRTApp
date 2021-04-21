@@ -2839,15 +2839,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 489926218}
-        m_MethodName: SceneLoader
-        m_Mode: 3
+      - m_Target: {fileID: 524717398}
+        m_MethodName: LoadScene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 4
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Donate
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &85518294
@@ -3689,15 +3689,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 489926218}
-        m_MethodName: SceneLoader
-        m_Mode: 3
+      - m_Target: {fileID: 524717398}
+        m_MethodName: LoadScene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 3
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Member
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &108454703
@@ -10917,15 +10917,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 489926218}
-        m_MethodName: SceneLoader
-        m_Mode: 3
+      - m_Target: {fileID: 524717398}
+        m_MethodName: LoadScene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 5
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: appguide
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &316049441
@@ -27360,15 +27360,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 489926218}
-        m_MethodName: SceneLoader
-        m_Mode: 3
+      - m_Target: {fileID: 524717398}
+        m_MethodName: LoadScene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 2
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Events
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &891944584
@@ -59946,7 +59946,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf53788c032c5144e955d7ed3b848163, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  largeText: {fileID: 1873868639}
 --- !u!1 &2036723148
 GameObject:
   m_ObjectHideFlags: 0
@@ -63112,6 +63111,36 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 985652851}
     m_Modifications:
+    - target: {fileID: 680344142696717354, guid: 43e3fb1bc7b693e40b026eac23e0b4b4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7172904351968533159}
+    - target: {fileID: 680344142696717354, guid: 43e3fb1bc7b693e40b026eac23e0b4b4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TimerStop
+      objectReference: {fileID: 0}
+    - target: {fileID: 2311703411797863812, guid: 43e3fb1bc7b693e40b026eac23e0b4b4,
+        type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7172904351968533159}
+    - target: {fileID: 2311703411797863812, guid: 43e3fb1bc7b693e40b026eac23e0b4b4,
+        type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TimerStart
+      objectReference: {fileID: 0}
+    - target: {fileID: 5552783177662075084, guid: 43e3fb1bc7b693e40b026eac23e0b4b4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7172904351968533159}
+    - target: {fileID: 5552783177662075084, guid: 43e3fb1bc7b693e40b026eac23e0b4b4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TimerReset
+      objectReference: {fileID: 0}
     - target: {fileID: 7172904352159545068, guid: 43e3fb1bc7b693e40b026eac23e0b4b4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -63179,3 +63208,15 @@ PrefabInstance:
       objectReference: {fileID: 562483909}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43e3fb1bc7b693e40b026eac23e0b4b4, type: 3}
+--- !u!114 &7172904351968533159 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8940093532161371050, guid: 43e3fb1bc7b693e40b026eac23e0b4b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 7172904351968533158}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76285293c9e13334d8c3032877a420e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
