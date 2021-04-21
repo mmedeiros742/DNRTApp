@@ -44226,15 +44226,15 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 489926218}
-        m_MethodName: SceneLoader
-        m_Mode: 3
+      - m_Target: {fileID: 524717398}
+        m_MethodName: LoadScene
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 24
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: excess
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1501569790
